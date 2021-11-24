@@ -18,7 +18,7 @@
 
 # COMMAND ----------
 
-username = "jneo"
+username = "your_name_here"
 spark.sql(f"CREATE DATABASE IF NOT EXISTS lakehouse_{username}")
 spark.sql(f"USE lakehouse_{username}")
 health_tracker = f"/lakehouse/{username}/healthtracker/"
