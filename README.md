@@ -9,6 +9,8 @@ The workshop aims to provide participants with:
 - A deep understanding of the delta lake file format in relation to the data lakehouse architecture.  
 - Ability to ingest and transform data using the medallion methodology (bronze, silver, gold).
 
+:video_camera: Recording: https://www.youtube.com/watch?v=mrHfdeH6az0
+
 # Content structure
 
 Within each topic folder, there will be sub-folders for:
